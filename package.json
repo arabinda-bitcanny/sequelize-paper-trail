@@ -89,5 +89,9 @@
 				}
 			]
 		]
-	}
+	},
+	"files": [
+		"dist/index.js",
+		"dist/helpers.js"
+	]
 }
