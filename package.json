@@ -72,6 +72,7 @@
 		"sqlite3": "^4.0.9"
 	},
 	"dependencies": {
+		"cls-hooked": "^4.2.2",
 		"continuation-local-storage": "^3.2.1",
 		"deep-diff": "^1.0.2",
 		"diff": "^4.0.1",
